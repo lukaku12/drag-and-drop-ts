@@ -14,6 +14,7 @@
   "author": "Maximilian Schwarzmüller",
   "license": "ISC",
   "devDependencies": {
+    "@types/node": "^20.11.5",
     "lite-server": "^2.5.4"
   }
 }
